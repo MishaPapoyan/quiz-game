@@ -1,0 +1,40 @@
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 15%;
+}
+
+
+.container .inner form{
+	border: 2px solid black;
+	padding: 20px;
+}
+
+.container .inner form p{
+	display: inline;
+	margin-left: 4%;
+}
+
+.container .inner form h2{
+	color: rgb(38, 41, 46);
+	text-transform: capitalize;
+}
+
+
+.container .inner form .inputbox{
+	margin-bottom: 20px;
+	font-size: 25px;
+	color: red;
+}
+#next{
+	display: block;
+	margin-top: 100px;
+}
+
+.points{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
